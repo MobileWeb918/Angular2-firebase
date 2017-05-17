@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/r-park/todo-angular2-firebase.svg?style=shield&circle-token=7f6c19e82f8464c0dc18797b6146767f66d49f90)](https://circleci.com/gh/r-park/todo-angular2-firebase)
 
 
-# Todo app with Angular 4, AngularFire2, and Firebase SDK 3
+# Test app with Angular 4, AngularFire2, and Firebase SDK 3
 A simple Todo app example built with **Angular 4** and **AngularFire2**. The app features a **Firebase** backend with **OAuth** authentication. Try the demo at <a href="https://ng2-todo-app.firebaseapp.com" target="_blank">ng2-todo-app.firebaseapp.com</a>.
 
 - Angular `4.1.2`
