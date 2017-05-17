@@ -10,7 +10,7 @@ A simple Todo app example built with **Angular 4** and **AngularFire2**. The app
   - JSON Datastore
   - OAuth authentication with GitHub, Google, and Twitter
   - Hosting
-- RxJS
+
 - SASS
 - Typescript
 - Webpack
